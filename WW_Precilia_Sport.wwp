@@ -1,0 +1,407 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WW_Precilia_Sport
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : ""
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : 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
+ configurations :
+  -
+    name : Site
+    internal_properties : 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
+    configuration_id : 3415822822886561088
+    type : 2
+    generation_name : club_de_sports.wdl
+    version : {}
+    index_page_generation_name : index
+    language : 1
+    64bits : true
+ elements :
+  identifier : 0x459e784c0002b195
+  elements :
+   -
+     name : cgv
+     identifier : 0x459fcbc6001bd4d9
+     internal_properties : CAAAAAgAAAB8D79uTXHrQN7Cj/jYoOCbij2ZrpdaG83arNGKLi1bZfinNU3fSszE6gQ5Vszfw1hu7jQq1Pu0LSIwxstz/OMYXmCS/PY=
+     physical_name : .\cgv.wwh
+     type : 65538
+     report :
+      fr-FR : FR
+   -
+     name : contact
+     identifier : 0x459fcbb70019976c
+     internal_properties : CAAAAAgAAACrvOg/9M6og5kF0C8Ll++SkSqCj/a/pEkcjbBjt967NtH1Ar95PsnHoQv8izcCHjVNzRsz3fKtJNVjiQiwv6ZdBY9BTac=
+     physical_name : .\contact.wwh
+     type : 65538
+     report :
+      fr-FR : FR
+   -
+     name : tarifs
+     identifier : 0x459fcbab0017693b
+     internal_properties : CAAAAAgAAABcL18O7ZFLYP4i7xg4gMC7qh15Dnc6pU+XZyPAKCuoP3wOh3CE6wDsmkTVXOh/o7jOTpRKtNuUDcKQpiuT3IO4/oCy3BY=
+     physical_name : .\tarifs.wwh
+     type : 65538
+     report :
+      fr-FR : FR
+   -
+     name : boutique
+     identifier : 0x459fcb9b00152d44
+     internal_properties : CAAAAAgAAAAJyvI96syugZ8DzjkZ4aXY13BUlWSNL857xYA7X56P3m2rEskrAJsV+9XKxRO46AO7s3Ftlzj37uNxhwqyvaBbA41Ht0k=
+     physical_name : .\boutique.wwh
+     type : 65538
+     report :
+      fr-FR : FR
+   -
+     name : spa
+     identifier : 0x459fcb5e00133c80
+     internal_properties : CAAAAAgAAAB9Dr4RTnDiNQPXiuX1TQFEc8yowSDJilMN/4wPY7rIwqVmcG7UuaUjzefY/008LMf/f0UZ+5xTSg8tw9ZGCdwXX2GT+/U=
+     physical_name : .\spa.wwh
+     type : 65538
+     report :
+      fr-FR : FR
+   -
+     name : index
+     identifier : 0x459e85280011ed3e
+     internal_properties : CAAAAAgAAAD19pbZluiKLWuvco2ttQl8e+Sw2Rgxla9IrG5dtL7AdD+xZG9tJrLynTeEjSV8pL/3d00BA5RLQjcFK64eIcR/J6lrk20=
+     physical_name : .\index.wwh
+     type : 65538
+     report :
+      fr-FR : FR
+   -
+     name : PAGEMOD_Principal
+     identifier : 0x459e7f44000febf6
+     internal_properties : CAAAAAgAAACKgPKWFVLahU9eLxh9PzZnVtmlZVFLsuKlDdVeUf6eeoa0JkXJf8WGMBWPaSmnU0WPlw==
+     physical_name : .\PAGEMOD_Principal.wwt
+     type : 65541
+   -
+     name : PAGEMOD_Contenu
+     identifier : 0x45a3caae0034adea
+     internal_properties : CAAAAAgAAACRbcnd6pefUBgw4Qm0wyFYZxq2/lLsa1KhGq+EpZpwoFToAK2AgJ5oPeLcJOzknAz0fA==
+     physical_name : .\PAGEMOD_Contenu.wwt
+     type : 65541
+   -
+     name : produit
+     identifier : 0x4649ff46004ad1aa
+     internal_properties : CAAAAAgAAACJkLpCUSwqbRNvOboxpJ/YLFghxsn1alLlPm7yXBxAKdQw9XWPZan96OaShWyjg/00z2MMY517Cx9SxpBfs3dQG4OJ
+     physical_name : .\produit.wwh
+     type : 65538
+     report :
+      fr-FR : FR
+   -
+     name : PAGEMOD_PANIER
+     identifier : 0x464c530c007e0249
+     internal_properties : CAAAAAgAAADFQS1xzuvD3JVDqFW8PeTto+CuNhjKX3yt14qhKPefoaOtntSvSSM8tm5oUNAA+OjQUA==
+     physical_name : .\PAGEMOD_PANIER.wwt
+     type : 65541
+   -
+     name : precilia_panier
+     identifier : 0x464c523c007cd869
+     internal_properties : CAAAAAgAAAC+SX2oB7slClBMCWZyzoLF9E8vQCl8dtMNXUPTvTYBIXv7JwuCNUc4pW6jDrrJ2XIIAMaYeh3Sy4yqQFH5RhnSmBrUOrQ=
+     physical_name : .\precilia_panier.wwh
+     type : 65538
+     report :
+      fr-FR : FR
+   -
+     name : precilia_paiement_abandon
+     identifier : 0x464c9e1e008e42db
+     internal_properties : CAAAAAgAAAA+yf0ohzulitDMiebyTgJFdM+vwKn8f82BwIHlq6Q5W9NDB9WWPeH2b+h1kgZJWfKIgEYY+p1SSwwqwNF5xplSGJpUujQ=
+     physical_name : .\precilia_paiement_abandon.wwh
+     type : 65538
+     report :
+      fr-FR : FR
+   -
+     name : precilia_paiement_differe
+     identifier : 0x464c9d9f008c5285
+     internal_properties : CAAAAAgAAADeXYUfHn/FkCxKdDWsN/p9OcHl7F9PNVYxXeIl80B8Tz7RxPiaFtlZX1nK+jFNfoP7wm5xCDAIlupt4b2MZjqV3s5c
+     physical_name : .\precilia_paiement_differe.wwh
+     type : 65538
+     report :
+      fr-FR : FR
+   -
+     name : precilia_paiement_echec
+     identifier : 0x464c9d29008a845c
+     internal_properties : CAAAAAgAAADRotqVwvRmyZcLxlFhed2gjxhsHeylPgUezrakkqwpjgqqYI4roKnB8utwwW0QECtDO4lFz8B/dnvZfxK6hViT2+UvX5E=
+     physical_name : .\precilia_paiement_echec.wwh
+     type : 65538
+     report :
+      fr-FR : FR
+   -
+     name : precilia_paiement_valide
+     identifier : 0x464c9cf50088bb21
+     internal_properties : CAAAAAgAAACxQnq1YhTGaTfrpvHBWT1AL/jMfcwFrjCnIc1HEZ4yQ9HUwtOS+bzbGLEWsWcwcIsjG+nlL6BfVhs53/Ja5fgzewXPP7E=
+     physical_name : .\precilia_paiement_valide.wwh
+     type : 65538
+     report :
+      fr-FR : FR
+   -
+     name : precilia_paiement
+     identifier : 0x464c918c0086281e
+     internal_properties : CAAAAAgAAADvWjHUNkbfA/DwoY0dpJE0f0XCY7XRCitGdPS2UoOh53P3zhqxgtjmAm8VTfPyoObD0AGIcgtoi5iH8z9fhbC/fAngkw==
+     physical_name : .\precilia_paiement.wwh
+     type : 65538
+     report :
+      fr-FR : FR
+   -
+     name : precilia_choix_adresse
+     identifier : 0x464c8deb0084fb17
+     internal_properties : CAAAAAgAAABKFbF0o9eBluzordoW8lYpOKMLJA3A+aWQcR+XKd9OJb+eyIX4U6jSy/Q93GI1Nc7kZKK8RkkG//BO5PWlqr12PEaI9gg=
+     physical_name : .\precilia_choix_adresse.wwh
+     type : 65538
+     report :
+      fr-FR : FR
+   -
+     name : precila_creation_adresse
+     identifier : 0x464c8b77008263b5
+     internal_properties : CAAAAAgAAAC9Tn5RDrAi9UOXSqW1DUEEM4zogWCJ01hTvJdlO2UqxY9GYdTfit2dhu8MBbO87Ae/vwXZO1wTik/tA5YGSRzXnyHTO7U=
+     physical_name : .\precila_creation_adresse.wwh
+     type : 65538
+     report :
+      fr-FR : FR
+   -
+     name : precilia_identification
+     identifier : 0x464c85120080693c
+     internal_properties : CAAAAAgAAAC9Tn5RDrAi9UOXSqW1DUEEM4zogWCJbN6TXB6MSux8Yra3MJsEqcn5eqN4ece87Ae/vwXZO1wTik/tA5YGSRzXnyHTO7U=
+     physical_name : .\precilia_identification.wwh
+     type : 65538
+     report :
+      fr-FR : FR
+  other_elements :
+   -
+     physical_name : .\WW_PRECILIA_SPORT_WEB\FR\images\coche_blanc.png
+   -
+     physical_name : .\WW_PRECILIA_SPORT_WEB\FR\images\coche_noir.png
+  analysis : .\WW_Precilia_Sport.ana\WW_Precilia_Sport.wda
+  net_assemblies : []
+  uwp_api : []
+  external_components :
+   -
+     name : WW_PayBox
+     identifier : 0x4655b8d20093552b
+     internal_properties : CAAAAAgAAACKrLGjS893/5csM+Zr/YzrY6KdQcMqSmUBd8aRUQAmESXccxQsTZaAKwf+lIqI2XMYzj6Id3CfjdRzWjG0S+8YV8GbYcjGDQ==
+     wdi_physical_name : .\WW_PayBox.wdi
+     wdk_physical_name : .\WW_PayBox.wdk
+     original_name : \\se\ComplementVI\WEBDEV 21\FR\Composants\Composants exemples\WW_PayBox\Exe\Composant\WW_PayBox.wdi
+     configurations :
+      -
+        configuration_id : 3415822822886561088
+        excluded_from_generation : true
+  internal_components :
+   -
+     physical_name : .\CompteVenteEnLigne\CompteVenteEnLigne.wci
+ data_directory : <RepDonneesCommun>
+ common_generation_directory : true
+ wb_skin : 210 Material Design
+ wb_color_palette : ClubDeSport
+ site_type : 3
+ languages :
+  - fr-FR
+ wd_style_sheet : .\club_de_sports.sty
+ site_map :
+  roots : []
+  orphans :
+   -
+     name : boutique
+     parameters : []
+     title :
+      fr-FR : boutique
+     description :
+      fr-FR : boutique
+   -
+     name : cgv
+     parameters : []
+     title :
+      fr-FR : cgv
+     description :
+      fr-FR : cgv
+   -
+     name : contact
+     parameters : []
+     title :
+      fr-FR : contact
+     description :
+      fr-FR : contact
+   -
+     name : index
+     parameters : []
+     title :
+      fr-FR : Accueil
+     description :
+      fr-FR : Accueil
+   -
+     name : precila_creation_adresse
+     parameters : []
+     title :
+      fr-FR : Adresse de livraison
+     description :
+      fr-FR : Adresse de livraison
+   -
+     name : precilia_choix_adresse
+     parameters : []
+     title :
+      fr-FR : Adresse de livraison
+     description :
+      fr-FR : Adresse de livraison
+   -
+     name : precilia_identification
+     parameters : []
+     title :
+      fr-FR : Identification
+     description :
+      fr-FR : Identification
+   -
+     name : precilia_paiement
+     parameters : []
+     title :
+      fr-FR : Choix du mode de règlement
+     description :
+      fr-FR : Choix du mode de règlement
+   -
+     name : precilia_paiement_abandon
+     parameters : []
+     title :
+      fr-FR : Abandon de paiement
+     description :
+      fr-FR : Abandon de paiement
+   -
+     name : precilia_paiement_differe
+     parameters : []
+     title :
+      fr-FR : Commande validée en attente de paiement
+     description :
+      fr-FR : Commande validée en attente de paiement
+   -
+     name : precilia_paiement_echec
+     parameters : []
+     title :
+      fr-FR : Echec du paiement
+     description :
+      fr-FR : Echec du paiement
+   -
+     name : precilia_paiement_valide
+     parameters : []
+     title :
+      fr-FR : Commande validée
+     description :
+      fr-FR : Commande validée
+   -
+     name : precilia_panier
+     parameters : []
+     title :
+      fr-FR : Visualisation du panier
+     description :
+      fr-FR : Visualisation du panier
+   -
+     name : produit
+     parameters : []
+     title :
+      fr-FR : produit
+     description :
+      fr-FR : produit
+   -
+     name : spa
+     parameters : []
+     title :
+      fr-FR : spa
+     description :
+      fr-FR : spa
+   -
+     name : tarifs
+     parameters : []
+     title :
+      fr-FR : tarifs
+     description :
+      fr-FR : tarifs
+ url_rewriting :
+  internal_properties : CAAAAAgAAADkPzcUdUUS7wCiun+MCjqYH70RJdzkSv/nRvXZ3ENdikMa6bcHtsAH
+ code_elements :
+  internal_properties : CAAAAAgAAAD8alPEM2NC0KTnYC3eYYlbuWQlIjuPFvsc5haqUS48HwCXGGvgULSZpXqmWhuR6IH0SUIFlSPuMXG6Tnmjk4JhXf3vhA==
+  type_code : 0
+  p_codes :
+   -
+     internal_properties : CAAAAAgAAABZGwyH36xFVtFqZ+hED/7/mSvebHZ3l1NxGLNe6GUpIVuOgOA92j2h8glfFrQKk3wpnChUZio9gRkoU0Q5h3OPpk7/YlIfv5GjPS37R8GVXQw2j5ZL0vGAczMAW3gQsBtqNirwr734PDKEpf4=
+     code : |1+
+      
+      
+      // Déclaration d'un contexte AWP
+      ConfigureContexteAWP(ctxDisque, ctxIDCookieURL)
+      
+      // Création/Ouverture de la base de données
+      HCréationSiInexistant("*")
+      
+      // Initialisation du composant interne de gestion de ECommerce
+      COL_ECommerce.InitialiseECommerce()
+      
+      // Initialisation du composant interne de gestion de l'espace client
+      COL_ComptesClient.InitialiseGestionClients()
+      
+      // Dans ce projet on gère 2 décimales sur les prix
+      COL_ECommerce.gnNbDécimales = 2
+      
+      // Déclaration des pages du projets appelées depuis la partie "site de vente"
+      COL_ECommerce.gsURLPageVisuProduit = PageAdresse(produit)
+      COL_ECommerce.gsURLRetourBoutique = PageAdresse(boutique)
+      COL_ECommerce.gsURLCGV = PageAdresse(cgv)
+      COL_ECommerce.gsURLPagePanier = PageAdresse(precilia_panier)
+      COL_ECommerce.gsURLPagePanierSansAdresse = PageAdresse(precila_creation_adresse)
+      COL_ECommerce.gsURLPagePanierAdresse = PageAdresse(precilia_choix_adresse)
+      COL_ECommerce.gsURLPagePanierPaiement = PageAdresse(precilia_paiement)
+      
+      // URL pour le paiement Paybox (il faudra les passer en sécurisé en production)
+      COL_ECommerce.gsURLPagePaiementOk = PageAdresse(precilia_paiement_valide,paCOMPLETE)
+      COL_ECommerce.gsURLPagePaiementAbandon = PageAdresse(precilia_paiement_abandon,paCOMPLETE)
+      COL_ECommerce.gsURLPagePaiementEchec = PageAdresse(precilia_paiement_echec,paCOMPLETE)
+      
+      // URL pour paiement chèque ou virement
+      COL_ECommerce.gsURLPagePaiementDifféré = PageAdresse(precilia_paiement_differe,paCOMPLETE)
+      
+      // Nom du site
+      COL_ECommerce.gsNomSite = "Precilia Sport"
+      
+      CONSTANT
+      	Caractéristique_Taille = 0
+      	Caractéristique_Couleur = 1
+      FIN
+      
+      LOCAL
+      soit (bRésultat, sNomPagesErreurs) = VérifiePagesSiteVente()
+      dbgAssertion(bRésultat,"URL de pages non renseignées : "+sNomPagesErreurs)
+     type : 196608
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : Site
+     identifier : 0x459e784c0003b202
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : club_de_sports
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+ children :
+  -
+    name : WW_PayBox
+    explorer_type : custom_folder
+    children :
+     -
+       name : PAYBOX
+       explorer_type : element
+       type : 7
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==
